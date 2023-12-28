@@ -1,7 +1,5 @@
 # Find the GCD of two numbers
 
-# Find the GCD of two numbers
-
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
